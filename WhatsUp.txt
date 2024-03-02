@@ -9,3 +9,5 @@ Aurhor: Varaharuban B
 3. Last seen code
 
 4. Atttachments (Image, Audio, Video) code
+
+5. Hiding the last seen
