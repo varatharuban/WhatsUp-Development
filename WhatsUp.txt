@@ -18,4 +18,4 @@ Aurhor: Varaharuban B
 
 8. Adding status so that user can play train games.
 
-9. Adding group feature to include 100 users.
+9. Adding group feature to include 200 users.
